@@ -1,0 +1,34 @@
+-	npx create-react-app ./
+-	Add new folder > components
+-	Add new JS File > components> Sidebar.js
+-	Add new File > index.scss
+-	Terminal: npm add sass
+-	Terminal: npm node-sass
+- 	Repeat App : npm start
+-	npm add react-modul
+-	npm add react-icons
+-	Add new file >src> brands.json
+-	Add new JS File > components> Content.js 	
+-	Add new JS File > components> Search.js
+-	Add new JS File > components> Brand.js
+-	Add new JS File > src> Helpers.js
+-	Add new JS File > src> MainContext.js
+-	npm add react-clipboard.js
+-	Add new JS File > components> Copied.js
+-	npm add react-lazyload --force
+-	Add new JS File > components> Download.js
+-	npm install react-router-dom --force
+-	Add new JS File > components> Collection.js
+-	Add new JS File > components> Loader.js
+-	www.skeletonreact.com from create new code
+-	npm add react-content-loader -f
+-	npm i react-virtualized -f
+-	npm run build
+-	netlify deploy
+
+
+
+
+
+
+
