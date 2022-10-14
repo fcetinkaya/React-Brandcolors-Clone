@@ -11,9 +11,9 @@ React JS - BrandColors Clone Project
 Learning JavaScript libraries and frameworks can be overwhelming. There are many libraries to choose from, and no proper step-by-step guides that’ll teach you how to use these libraries to their fullest potential. That’s why, in this project, you’ll learn the most popular JavaScript library, used by hundreds of thousands of developers worldwide - React.js.
 
 ## Screenshots
-![Example screenshot](screenshot_1.jpg)
-![Example screenshot](screenshot_2.jpg)
-![Example screenshot](screenshot_3.jpg)
+![Example screenshot](screenshot-1.jpg)
+![Example screenshot](screenshot-2.jpg)
+![Example screenshot](screenshot-3.jpg)
 
 
 ## Projects
